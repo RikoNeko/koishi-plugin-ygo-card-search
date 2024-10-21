@@ -1,5 +1,4 @@
 <div align="center">
-  <img style="display: none;" class="logo-dark" width="520" src="https://alist.rikoneko.xyz/d/B2/site-img/koishi-uwu-dark.png" alt="logo">
   <img class="logo-light" width="520" src="https://alist.rikoneko.xyz/d/B2/site-img/koishi-uwu.png" alt="logo">
   <h1 id="koishi"><a href="https://github.com/RikoNeko/koishi-plugin-ygo-card-search" target="_blank">koishi-plugin-ygo-card-search</a></h1>
   <p>A YuGiOh card searching plugin for Koishi.</p>
