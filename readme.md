@@ -1,8 +1,31 @@
+<style>
+  .logo-dark {
+    display: none;
+  }
+  
+  @media (prefers-color-scheme: dark) {
+    .logo-dark {
+      display: block;
+    }
+    .logo-light {
+      display: none;
+    }
+  }
+  
+  @media (prefers-color-scheme: light) {
+    .logo-dark {
+      display: none;
+    }
+    .logo-light {
+      display: block;
+    }
+  }
+</style>
 <div align="center">
-  <img width="520" src="https://alist.rikoneko.xyz/d/B2/site-img/koishi-uwu-dark.png#gh-dark-mode-only" alt="logo">
-  <img width="520" src="https://alist.rikoneko.xyz/d/B2/site-img/koishi-uwu.png#gh-light-mode-only" alt="logo">
+  <img class="logo-dark" width="520" src="https://alist.rikoneko.xyz/d/B2/site-img/koishi-uwu-dark.png" alt="logo">
+  <img class="logo-light" width="520" src="https://alist.rikoneko.xyz/d/B2/site-img/koishi-uwu.png" alt="logo">
   <h1 id="koishi"><a href="https://github.com/RikoNeko/koishi-plugin-ygo-card-search" target="_blank">koishi-plugin-ygo-card-search</a></h1>
-  <p>Koishi VTuberized Logo.</p>
+  <p>A YuGiOh card searching plugin for Koishi.</p>
 </div>
 
 [![npm](https://img.shields.io/npm/v/koishi-plugin-ygo-card-search?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-ygo-card-search)
