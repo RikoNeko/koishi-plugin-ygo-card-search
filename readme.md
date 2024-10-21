@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="520" src="https://alist.rikoneko.xyz/d/B2/site-img/koishi-uwu-dark%402x.png" alt="logo">
+  <img width="520" src="https://f005.backblazeb2.com/file/Alist-B2/site-img/koishi-uwu@2x.png" alt="logo">
   <img width="520" src="https://alist.rikoneko.xyz/d/B2/site-img/koishi-uwu%402x.png" alt="logo">
   <h1 id="koishi"><a href="https://github.com/RikoNeko/koishi-plugin-ygo-card-search" target="_blank">koishi-plugin-ygo-card-search</a></h1>
   <p>Koishi VTuberized Logo.</p>
